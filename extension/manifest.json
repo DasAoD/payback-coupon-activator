@@ -3,13 +3,8 @@
   "name": "PAYBACK Coupon Activator",
   "version": "1.0.0",
   "description": "Aktiviert alle verfügbaren PAYBACK-Coupons auf payback.de mit einem Klick.",
-  "permissions": [
-    "scripting",
-    "activeTab"
-  ],
-  "host_permissions": [
-    "https://www.payback.de/*"
-  ],
+  "permissions": [ "scripting", "activeTab" ],
+  "host_permissions": [ "https://www.payback.de/*" ],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
@@ -26,7 +21,11 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "payback-coupon-activator@dasaod",
-      "strict_min_version": "109.0"
+      "strict_min_version": "142.0",
+      "data_collection_permissions": {
+        "required": ["none"],
+        "optional": []
+      }
     }
   }
 }
