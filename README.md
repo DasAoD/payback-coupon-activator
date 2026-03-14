@@ -44,7 +44,7 @@ No store installation required. Works in Chrome, Edge, Brave, and Firefox.
 3. Click **"Load Temporary Add-on…"**
 4. Select `extension/manifest.json`
 
-> **Note:** Icons are optional. Place `icon16.png`, `icon48.png`, and `icon128.png` in `extension/icons/` to show a toolbar icon. The extension works without them.
+> **Note:** Icons are required. Place `icon16.png`, `icon48.png`, and `icon128.png` in `extension/icons/`. Placeholder icons are included in this repo.
 
 ### Usage
 
