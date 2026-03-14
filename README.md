@@ -2,6 +2,14 @@
 
 Activates all available PAYBACK coupons on [payback.de/coupons](https://www.payback.de/coupons) with a single click — available as a bookmarklet or browser extension.
 
+## Install from Store
+
+| Browser | Link |
+|---------|------|
+| 🦊 Firefox | [Firefox Add-ons (AMO)](https://addons.mozilla.org/de/firefox/addon/payback-coupon-activator/) *(in Review)* |
+| 🌐 Chrome / Brave | [Chrome Web Store](https://chromewebstore.google.com/detail/payback-coupon-activator/injjlkjddolbodmjpkadeodhjkkkhihk) *(in Review)* |
+| 🔷 Edge | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/payback-coupon-activator/0RDCK9FMSWJ9) *(in Review)* |
+
 ---
 
 ## Bookmarklet
@@ -44,8 +52,6 @@ No store installation required. Works in Chrome, Edge, Brave, and Firefox.
 3. Click **"Load Temporary Add-on…"**
 4. Select `extension/manifest.json`
 
-> **Note:** Icons are required. Place `icon16.png`, `icon48.png`, and `icon128.png` in `extension/icons/`. Placeholder icons are included in this repo.
-
 ### Usage
 
 1. Open [payback.de/coupons](https://www.payback.de/coupons) and log in
@@ -65,5 +71,3 @@ No store installation required. Works in Chrome, Edge, Brave, and Firefox.
 ## License
 
 [MIT](LICENSE)
-
----
