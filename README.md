@@ -6,7 +6,7 @@ Activates all available PAYBACK coupons on [payback.de/coupons](https://www.payb
 
 | Browser | Link |
 |---------|------|
-| 🦊 Firefox | [Firefox Add-ons (AMO)](https://addons.mozilla.org/de/firefox/addon/payback-coupon-activator/) *(in Review)* |
+| 🦊 Firefox | [Firefox Add-ons (AMO)](https://addons.mozilla.org/de/firefox/addon/payback-coupon-activator/) |
 | 🌐 Chrome / Brave | [Chrome Web Store](https://chromewebstore.google.com/detail/payback-coupon-activator/injjlkjddolbodmjpkadeodhjkkkhihk) *(in Review)* |
 | 🔷 Edge | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/payback-coupon-activator/0RDCK9FMSWJ9) *(in Review)* |
 
