@@ -1,6 +1,6 @@
 # PAYBACK Coupon Activator
 
-Activates all available PAYBACK coupons on [payback.de/coupons](https://www.payback.de/coupons) with a single click — available as a bookmarklet or browser extension.
+Activates all loaded PAYBACK coupons on [payback.de/coupons](https://www.payback.de/coupons) with a single click. For all coupons, simply click again after the page reloads.
 
 ## Install from Store
 
@@ -10,9 +10,7 @@ Activates all available PAYBACK coupons on [payback.de/coupons](https://www.payb
 | 🌐 Chrome / Brave | [Chrome Web Store](https://chromewebstore.google.com/detail/payback-coupon-activator/injjlkjddolbodmjpkadeodhjkkkhihk) |
 | 🔷 Edge | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/nggadpampmdhmkbjhbfigpplimpojpii) |
 
-**Note:**
-Chrome may show a "not trusted" warning for new extensions with few users. This is normal and will disappear over time. 
-Click "Install anyway" to proceed.
+> **⚠️ Chrome / Edge:** When installing a new extension with few users, Chrome may show a "not trusted by Enhanced Safe Browsing" warning. This is normal and will go away automatically as the extension gains more users. Click **"Install anyway"** to proceed.
 
 ---
 
@@ -34,6 +32,7 @@ javascript:(() => {const btns=document.querySelectorAll('button[data-testid$="-n
 1. Open [payback.de/coupons](https://www.payback.de/coupons) and log in
 2. Click the bookmark
 3. Done — the page reloads after 1.5 seconds
+4. Repeat if more coupons are available
 
 ---
 
@@ -61,6 +60,7 @@ No store installation required. Works in Chrome, Edge, Brave, and Firefox.
 1. Open [payback.de/coupons](https://www.payback.de/coupons) and log in
 2. Click the extension icon in the toolbar
 3. Click **"Alle aktivieren"**
+4. Repeat after the page reloads if more coupons are available
 
 ---
 
