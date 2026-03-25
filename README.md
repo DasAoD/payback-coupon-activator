@@ -10,6 +10,10 @@ Activates all available PAYBACK coupons on [payback.de/coupons](https://www.payb
 | 🌐 Chrome / Brave | [Chrome Web Store](https://chromewebstore.google.com/detail/payback-coupon-activator/injjlkjddolbodmjpkadeodhjkkkhihk) |
 | 🔷 Edge | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/nggadpampmdhmkbjhbfigpplimpojpii) |
 
+**Note:**
+Chrome may show a "not trusted" warning for new extensions with few users. This is normal and will disappear over time. 
+Click "Install anyway" to proceed.
+
 ---
 
 ## Bookmarklet
