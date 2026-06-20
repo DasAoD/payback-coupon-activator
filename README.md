@@ -1,7 +1,7 @@
 # PAYBACK Coupon Activator
 
-> **搌 Mirror-Hinweis:** Dieses Repository ist ein automatischer Spiegel.
-> Die primäre Entwicklung findet auf **[git.uliana.de/DasAoD/payback-coupon-activator](https://git.uliana.de/DasAoD/payback-coupon-activator)** statt.
+> **📌 Mirror-Hinweis:** Dieses Repository ist ein automatischer Spiegel.
+> Die primäre Entwicklung findet auf **[git.uliana.de/DasAoD/REPONAME](https://git.uliana.de/DasAoD/REPONAME)** statt.
 > Issues und Pull Requests bitte dort öffnen.
 
 Activates all loaded PAYBACK coupons on [payback.de/coupons](https://www.payback.de/coupons) with a single click. For all coupons, simply click again after the page reloads.
