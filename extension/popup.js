@@ -31,7 +31,7 @@ btn.addEventListener('click', async () => {
       status.textContent = '✅ Keine offenen Coupons gefunden.';
       status.className = 'success';
     } else {
-      status.textContent = `✅ ${count} Coupon(s) aktiviert!`;
+      status.textContent = `✅ ${count} Coupon(s) aktiviert! Seite lädt neu – bei Bedarf erneut klicken.`;
       status.className = 'success';
       setTimeout(() => {
         chrome.tabs.reload(tab.id);

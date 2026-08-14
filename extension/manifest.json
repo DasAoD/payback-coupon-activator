@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "PAYBACK Coupon Activator",
   "version": "1.0.0",
-  "description": "Aktiviert alle verfügbaren PAYBACK-Coupons auf payback.de mit einem Klick.",
+  "description": "Aktiviert PAYBACK-Coupons auf payback.de per Klick. Bei vielen Coupons ggf. mehrfach klicken, da nicht alle auf einmal aktiviert werden.",
   "permissions": [ "scripting", "activeTab" ],
   "host_permissions": [ "https://www.payback.de/*" ],
   "action": {

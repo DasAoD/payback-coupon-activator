@@ -1,6 +1,6 @@
 # payback-coupon-activator – Projektkontext für Claude Code
 
-Aktiviert alle geladenen PAYBACK-Coupons auf payback.de/coupons per einzigem Klick. Für alle Coupons: nach Seiten-Reload einfach erneut klicken.
+Aktiviert geladene PAYBACK-Coupons auf payback.de/coupons per Klick. Da payback.de immer nur einen Teil der Coupons rendert, aktiviert ein Klick nicht alle auf einmal – die Anzahl variiert. Bei verbleibenden Coupons nach dem Reload einfach erneut klicken, bis keine mehr übrig sind.
 
 ## Tech-Stack
 - JavaScript, als Bookmarklet und Browser-Extension verfügbar
