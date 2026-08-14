@@ -1,0 +1,3 @@
+# Build artifacts (packaged for AMO/Forgejo releases, not tracked in repo)
+*.xpi
+*.zip
